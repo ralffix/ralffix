@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ralffix
 - 👀 I’m interested in robotiks
 - 🌱 I’m currently learning at SVG
-- 💞️ I’m looking to collaborate on a Batttle bot
-- 📫 How to reach me Ralffix22@gmail.com
+- 💞️ I’m looking to collaborate on a Battle bot
+- 📫 How to reach me Ralffix22@gmail.com / Ralfs.freibergs@proton.me
 - 😄 Pronouns: he him
 - ⚡ Fun fact: i have won the 2023 RTU eletronik kontest
 
