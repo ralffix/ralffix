@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ralffix
 - 👀 I’m interested in robotiks
-- 🌱 I’m currently learning at SVG
-- 💞️ I’m looking to collaborate on a Battle bot
+- 🌱 I’m currently learning at SPV
 - 📫 How to reach me Ralffix22@gmail.com / Ralfs.freibergs@proton.me
-- 😄 Pronouns: he him
+- 😄 Pronouns: he him crosaunt
 - ⚡ Fun fact: i have won the 2023 RTU eletronik kontest
 
 <!---
